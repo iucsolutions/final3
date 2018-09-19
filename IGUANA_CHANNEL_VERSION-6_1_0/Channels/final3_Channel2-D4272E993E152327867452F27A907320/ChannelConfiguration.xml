@@ -1,0 +1,19 @@
+<channel
+   name="final3_Channel2"
+   guid="D4272E993E152327867452F27A907320"
+   description=""
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_mapper
+      guid="final3_Channel2-To-1Yq6YxP9ai49MK"
+      commit_id="5c34162526475835603d1d68263b9a081cf27ecb"
+      commit_comment="initial commit">
+      <dequeue_list>
+         <dequeue
+            source_name="final3_Channel1"
+            dequeue_guid="DC0266E6A038C69BF5B4E8B84E9D9524"/>
+      </dequeue_list>
+   </to_mapper>
+   <from_channel/>
+</channel>
