@@ -9,8 +9,8 @@
    </to_channel>
    <from_mapper
       guid="final3_Channel1-From-a9SJIbZDpFb0qG"
-      commit_id="8458b7e109daed0a188225f334e2bd39fb6c0e9c"
-      commit_comment="Import Translators: final 3"
+      commit_id="23a5e1b812554c67c268473e9b70ad6154c853c6"
+      commit_comment="make https"
       poll_time="15000">
    </from_mapper>
    <message_filter
